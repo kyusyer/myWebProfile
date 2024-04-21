@@ -54,7 +54,7 @@ header nav .nav-menu:hover {
 
 .home {
   display: block;
-  background-image: linear-gradient(rgba(0, 0, 255, 0.4), rgba(0, 0, 0, 0.1)), url(./resource/home_bg.png);
+  background-image: linear-gradient(rgba(0, 0, 255, 0.4), rgba(0, 0, 0, 0.1)), url(../../resource/home_bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
