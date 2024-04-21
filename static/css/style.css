@@ -27,7 +27,7 @@ header div .logo-container {
   height: 35px;
   width: 35px;
   border-radius: 100%;
-  background-image: url(/resource/mylogo.png);
+  background-image: url(./resource/mylogo.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -54,7 +54,7 @@ header nav .nav-menu:hover {
 
 .home {
   display: block;
-  background-image: linear-gradient(rgba(0, 0, 255, 0.4), rgba(0, 0, 0, 0.1)), url(/resource/home_bg.png);
+  background-image: linear-gradient(rgba(0, 0, 255, 0.4), rgba(0, 0, 0, 0.1)), url(./resource/home_bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -91,7 +91,7 @@ header nav .nav-menu:hover {
   border-radius: 70px;
 }
 .home .react {
-  background-image: url(/resource/react_logo.png);
+  background-image: url(./resource/react_logo.png);
   top: -100px;
   left: 100px;
   animation: rotateBg 7s infinite;
@@ -119,23 +119,23 @@ header nav .nav-menu:hover {
   }
 }
 .home .js {
-  background-image: url(/resource/js_logo.png);
+  background-image: url(./resource/js_logo.png);
   top: -170px;
   left: calc(100vw - 170px);
   animation: rotateBg 7s infinite;
 }
 .home .css {
-  background-image: url(/resource/css_logo.png);
+  background-image: url(./resource/css_logo.png);
   left: 100px;
   animation: rotateBg 7s infinite;
 }
 .home .html {
-  background-image: url(/resource/html_logo.png);
+  background-image: url(./resource/html_logo.png);
   left: calc(100vw - 150px);
   animation: rotateBg 7s infinite;
 }
 .home .python {
-  background-image: url(/resource/py_logo.jpg);
+  background-image: url(./resource/py_logo.jpg);
   top: -190px;
   left: calc(100vw - 250px);
   animation: rotateBg 7s infinite;
